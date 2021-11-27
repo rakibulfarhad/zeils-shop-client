@@ -5,6 +5,13 @@ Description: BEstablished in 2012, ZEiL’S Shop Ltd is a footwear marketing com
 
 Live Site Link: https://zeils-shop.netlify.app/
 
+
+Key Feature:
+
+- Responsive MERN Stack app with firebase and admin authentication, dashboard functionality for admin and customer.
+- Customer can buy product, check status, and able to give their feedback.
+- Admin can add or remove services, add new admin, and also change order status.
+
 Technology we use to build this project:
 
 - JSX
